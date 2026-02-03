@@ -49,8 +49,6 @@ _site/
 # Lab 4 - Additional exclusions
 *.class
 .idea/
-*.iml
-target/
 *.log
 
 
